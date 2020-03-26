@@ -4,7 +4,8 @@ body {
   margin: 0;
 }
 
-.header {
+header {
   margin: auto;
   width: 100%;
+  text-align: center;
 }
