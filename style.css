@@ -23,3 +23,7 @@ figure img {
   width: 50%;
 }
 
+figcaption {
+  text-align: center;
+  
+}
